@@ -1,0 +1,260 @@
+{
+    "content": [
+        {
+            "data": "বাগেরহাট",
+            "identifier": "01"
+        },
+        {
+            "data": "বান্দরবান",
+            "identifier": "03"
+        },
+        {
+            "data": "বরগুনা",
+            "identifier": "04"
+        },
+        {
+            "data": "বরিশাল",
+            "identifier": "06"
+        },
+        {
+            "data": "ভোলা",
+            "identifier": "09"
+        },
+        {
+            "data": "বগুড়া",
+            "identifier": "10"
+        },
+        {
+            "data": "ব্রাহ্মণবাড়িয়া",
+            "identifier": "12"
+        },
+        {
+            "data": "চাঁদপুর",
+            "identifier": "13"
+        },
+        {
+            "data": "চাঁপাইনবাবগঞ্জ",
+            "identifier": "70"
+        },
+        {
+            "data": "চট্টগ্রাম",
+            "identifier": "15"
+        },
+        {
+            "data": "চুয়াডাঙ্গা",
+            "identifier": "18"
+        },
+        {
+            "data": "কক্সবাজার",
+            "identifier": "22"
+        },
+        {
+            "data": "কুমিল্লা",
+            "identifier": "19"
+        },
+        {
+            "data": "ঢাকা",
+            "identifier": "26"
+        },
+        {
+            "data": "দিনাজপুর",
+            "identifier": "27"
+        },
+        {
+            "data": "ফরিদপুর",
+            "identifier": "29"
+        },
+        {
+            "data": "ফেনী",
+            "identifier": "30"
+        },
+        {
+            "data": "গাইবান্ধা",
+            "identifier": "32"
+        },
+        {
+            "data": "গাজীপুর",
+            "identifier": "33"
+        },
+        {
+            "data": "গোপালগঞ্জ",
+            "identifier": "35"
+        },
+        {
+            "data": "হবিগঞ্জ",
+            "identifier": "36"
+        },
+        {
+            "data": "জামালপুর",
+            "identifier": "39"
+        },
+        {
+            "data": "যশোর",
+            "identifier": "41"
+        },
+        {
+            "data": "ঝালকাঠি",
+            "identifier": "42"
+        },
+        {
+            "data": "ঝিনাইদহ",
+            "identifier": "44"
+        },
+        {
+            "data": "জয়পুরহাট",
+            "identifier": "38"
+        },
+        {
+            "data": "খাগড়াছড়ি",
+            "identifier": "46"
+        },
+        {
+            "data": "খুলনা",
+            "identifier": "47"
+        },
+        {
+            "data": "কিশোরগঞ্জ",
+            "identifier": "48"
+        },
+        {
+            "data": "কুড়িগ্রাম",
+            "identifier": "49"
+        },
+        {
+            "data": "কুষ্টিয়া",
+            "identifier": "50"
+        },
+        {
+            "data": "লক্ষ্মীপুর",
+            "identifier": "51"
+        },
+        {
+            "data": "লালমনিরহাট",
+            "identifier": "52"
+        },
+        {
+            "data": "মাদারীপুর",
+            "identifier": "54"
+        },
+        {
+            "data": "মাগুরা",
+            "identifier": "55"
+        },
+        {
+            "data": "মানিকগঞ্জ",
+            "identifier": "56"
+        },
+        {
+            "data": "মেহেরপুর",
+            "identifier": "57"
+        },
+        {
+            "data": "মৌলভীবাজার",
+            "identifier": "58"
+        },
+        {
+            "data": "মুন্সীগঞ্জ",
+            "identifier": "59"
+        },
+        {
+            "data": "ময়মনসিংহ",
+            "identifier": "61"
+        },
+        {
+            "data": "নওগাঁ",
+            "identifier": "64"
+        },
+        {
+            "data": "নড়াইল",
+            "identifier": "65"
+        },
+        {
+            "data": "নারায়ণগঞ্জ",
+            "identifier": "67"
+        },
+        {
+            "data": "নরসিংদী",
+            "identifier": "68"
+        },
+        {
+            "data": "নাটোর",
+            "identifier": "69"
+        },
+        {
+            "data": "নেত্রকোনা",
+            "identifier": "72"
+        },
+        {
+            "data": "নীলফামারী",
+            "identifier": "73"
+        },
+        {
+            "data": "নোয়াখালী",
+            "identifier": "75"
+        },
+        {
+            "data": "পাবনা",
+            "identifier": "76"
+        },
+        {
+            "data": "পঞ্চগড়",
+            "identifier": "77"
+        },
+        {
+            "data": "পটুয়াখালী",
+            "identifier": "78"
+        },
+        {
+            "data": "পিরোজপুর",
+            "identifier": "79"
+        },
+        {
+            "data": "রাজবাড়ী",
+            "identifier": "82"
+        },
+        {
+            "data": "রাজশাহী",
+            "identifier": "81"
+        },
+        {
+            "data": "রাঙামাটি",
+            "identifier": "84"
+        },
+        {
+            "data": "রংপুর",
+            "identifier": "85"
+        },
+        {
+            "data": "সাতক্ষীরা",
+            "identifier": "87"
+        },
+        {
+            "data": "শরীয়তপুর",
+            "identifier": "86"
+        },
+        {
+            "data": "শেরপুর",
+            "identifier": "89"
+        },
+        {
+            "data": "সিরাজগঞ্জ",
+            "identifier": "88"
+        },
+        {
+            "data": "সুনামগঞ্জ",
+            "identifier": "90"
+        },
+        {
+            "data": "সিলেট",
+            "identifier": "91"
+        },
+        {
+            "data": "টাঙ্গাইল",
+            "identifier": "93"
+        },
+        {
+            "data": "ঠাকুরগাঁও",
+            "identifier": "94"
+        }
+    ]
+}

@@ -1,0 +1,3184 @@
+{
+    "content": [
+        {
+            "identifier": "0002",
+            "data": "অভয়নগর",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0003",
+            "data": "আদাবর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0004",
+            "data": "আদমদীঘি",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0005",
+            "data": "আদিতমারী",
+            "districtIdentifier": "52"
+        },
+        {
+            "identifier": "0006",
+            "data": "আগৈলঝাড়া",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0563",
+            "data": "বিমানবন্দর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1126",
+            "data": "বিমানবন্দর",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "1136",
+            "data": "বিমানবন্দর",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "4416",
+            "data": "বিমানবন্দর",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0007",
+            "data": "আজমিরীগঞ্জ",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "1166",
+            "data": "আকবরশাহ",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0008",
+            "data": "আখাউড়া",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0009",
+            "data": "আক্কেলপুর",
+            "districtIdentifier": "38"
+        },
+        {
+            "identifier": "0010",
+            "data": "আলমডাঙ্গা",
+            "districtIdentifier": "18"
+        },
+        {
+            "identifier": "0011",
+            "data": "আলফাডাঙ্গা",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0012",
+            "data": "আলীকদম",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0956",
+            "data": "আমিনপুর",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0013",
+            "data": "আমতলী",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "0014",
+            "data": "আনোয়ারা",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0015",
+            "data": "আড়াইহাজার",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "4391",
+            "data": "আড়ংঘাটা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0017",
+            "data": "আশাশুনি",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0016",
+            "data": "আশুগঞ্জ",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0665",
+            "data": "আশুলিয়া",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0961",
+            "data": "আতাইকুলা",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0018",
+            "data": "আটঘরিয়া",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0019",
+            "data": "আটপাড়া",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0020",
+            "data": "আত্রাই",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0021",
+            "data": "আটোয়ারী",
+            "districtIdentifier": "77"
+        },
+        {
+            "identifier": "0022",
+            "data": "অষ্টগ্রাম",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0023",
+            "data": "বাবুগঞ্জ",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0024",
+            "data": "বদলগাছী",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0025",
+            "data": "বদরগঞ্জ",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0026",
+            "data": "বাড্ডা",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0027",
+            "data": "বাগাতিপাড়া",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0028",
+            "data": "বাগেরহাট সদর",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0029",
+            "data": "বাঘা",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0030",
+            "data": "বাঘাইছড়ি",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0031",
+            "data": "বাঘারপাড়া",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0032",
+            "data": "বাগমারা",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0033",
+            "data": "বাহুবল",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0034",
+            "data": "বাজিতপুর",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0035",
+            "data": "বাকলিয়া",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0036",
+            "data": "বাকেরগঞ্জ",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0037",
+            "data": "বকশীগঞ্জ",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0038",
+            "data": "বালাগঞ্জ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0039",
+            "data": "বালিয়াডাঙ্গী",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0040",
+            "data": "বালিয়াকান্দি",
+            "districtIdentifier": "82"
+        },
+        {
+            "identifier": "0041",
+            "data": "বামনা",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "1131",
+            "data": "বনানী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0042",
+            "data": "বানারীপাড়া",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0043",
+            "data": "বাঞ্ছারামপুর",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0657",
+            "data": "বন্দর",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "1118",
+            "data": "বন্দর",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0044",
+            "data": "বন্দর",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "0045",
+            "data": "বান্দরবান সদর",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "4425",
+            "data": "যমুনা সেতু পূর্ব",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "1108",
+            "data": "যমুনা সেতু পশ্চিম",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "4397",
+            "data": "বাঙ্গরা বাজার",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0568",
+            "data": "বংশাল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0046",
+            "data": "বানিয়াচং",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0047",
+            "data": "বাঁশখালী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0048",
+            "data": "বড়াইগ্রাম",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0049",
+            "data": "বরগুনা",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "0050",
+            "data": "বারহাট্টা",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0052",
+            "data": "বরকল",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0053",
+            "data": "বড়লেখা",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "0054",
+            "data": "বরুড়া",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0055",
+            "data": "বাসাইল",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "4404",
+            "data": "বাসন",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0056",
+            "data": "বটিয়াঘাটা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0057",
+            "data": "বাউফল",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0058",
+            "data": "বায়েজিদ বোস্তামী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0059",
+            "data": "বিয়ানীবাজার",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0060",
+            "data": "বেগমগঞ্জ",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0061",
+            "data": "বেলাব",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0062",
+            "data": "বিলাইছড়ি",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0063",
+            "data": "বেলকুচি",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "1109",
+            "data": "বেনাপোল পোর্ট",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0064",
+            "data": "বেড়া",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0065",
+            "data": "বেতাগী",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "0066",
+            "data": "ভৈরব",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0067",
+            "data": "ভালুকা",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0068",
+            "data": "ভান্ডারিয়া",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0069",
+            "data": "ভাঙ্গা",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0070",
+            "data": "ভাঙ্গুড়া",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "4427",
+            "data": "ভাসানচর",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0071",
+            "data": "ভেদরগঞ্জ",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0072",
+            "data": "ভেড়ামারা",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0074",
+            "data": "ভোলাহাট",
+            "districtIdentifier": "70"
+        },
+        {
+            "identifier": "0073",
+            "data": "ভোলা সদর মডেল",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0075",
+            "data": "ভূঞাপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "1117",
+            "data": "ভুজপুর",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "4429",
+            "data": "ভূল্লী",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0076",
+            "data": "ভুরুঙ্গামারী",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "1124",
+            "data": "বিজয়নগর",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "4417",
+            "data": "বিলপুকুর",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0078",
+            "data": "বিরল",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0079",
+            "data": "বিরামপুর",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0080",
+            "data": "বীরগঞ্জ",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0081",
+            "data": "বিশ্বম্ভরপুর",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0082",
+            "data": "বিশ্বনাথ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0083",
+            "data": "বোয়ালিয়া মডেল",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0084",
+            "data": "বোয়ালখালী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0085",
+            "data": "বোয়ালমারী",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0086",
+            "data": "বোচাগঞ্জ",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0087",
+            "data": "বোদা",
+            "districtIdentifier": "77"
+        },
+        {
+            "identifier": "0088",
+            "data": "বগুড়া সদর",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0090",
+            "data": "ব্রাহ্মণবাড়িয়া সদর",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0089",
+            "data": "ব্রাহ্মণপাড়া",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0091",
+            "data": "বোরহানউদ্দিন",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0092",
+            "data": "বুড়িচং",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0093",
+            "data": "ক্যান্টনমেন্ট",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0094",
+            "data": "চকরিয়া",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0095",
+            "data": "চন্দনাইশ",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0096",
+            "data": "চান্দগাঁও",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0097",
+            "data": "চান্দিনা",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0098",
+            "data": "চাঁদপুর সদর মডেল",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "4414",
+            "data": "চন্দ্রগঞ্জ",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "4418",
+            "data": "চন্দ্রিমা",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0694",
+            "data": "চন্দ্রঘোনা",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0100",
+            "data": "চরভদ্রাসন",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0101",
+            "data": "চরফ্যাশন",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0103",
+            "data": "চারঘাট",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0754",
+            "data": "চরজব্বর",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0102",
+            "data": "চর রাজিবপুর",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0104",
+            "data": "চাটখিল",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0105",
+            "data": "চাটমোহর",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0106",
+            "data": "চৌদ্দগ্রাম",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0107",
+            "data": "চৌগাছা",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "4389",
+            "data": "চকবাজার",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0570",
+            "data": "চকবাজার",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0109",
+            "data": "ছাগলনাইয়া",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "0110",
+            "data": "ছাতক",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0111",
+            "data": "চিলমারী",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0112",
+            "data": "চিরিরবন্দর",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0113",
+            "data": "চিতলমারী",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0108",
+            "data": "চৌহালী",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0115",
+            "data": "চুয়াডাঙ্গা সদর",
+            "districtIdentifier": "18"
+        },
+        {
+            "identifier": "0116",
+            "data": "চুনারুঘাট",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0119",
+            "data": "কোম্পানীগঞ্জ",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0120",
+            "data": "কোম্পানীগঞ্জ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0121",
+            "data": "কক্সবাজার",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0122",
+            "data": "দাকোপ",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0123",
+            "data": "দাগনভূঞা",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "1139",
+            "data": "দক্ষিণ আইচা",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0126",
+            "data": "দক্ষিণখান",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "4422",
+            "data": "দামকুড়া",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0127",
+            "data": "ডামুড্যা",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0128",
+            "data": "দামুড়হুদা",
+            "districtIdentifier": "18"
+        },
+        {
+            "identifier": "4411",
+            "data": "দর্শনা",
+            "districtIdentifier": "18"
+        },
+        {
+            "identifier": "0572",
+            "data": "দারুস সালাম",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "4394",
+            "data": "ডাসার",
+            "districtIdentifier": "54"
+        },
+        {
+            "identifier": "0129",
+            "data": "দশমিনা",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0130",
+            "data": "দাউদকান্দি",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0132",
+            "data": "দৌলতপুর",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0134",
+            "data": "দৌলতপুর",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0133",
+            "data": "দৌলতপুর",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0135",
+            "data": "দেবহাটা",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0136",
+            "data": "দেবিদ্বার",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0137",
+            "data": "দেবীগঞ্জ",
+            "districtIdentifier": "77"
+        },
+        {
+            "identifier": "0138",
+            "data": "দেলদুয়ার",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0139",
+            "data": "ডেমরা",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0140",
+            "data": "দিরাই",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0141",
+            "data": "দেওয়ানগঞ্জ",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0142",
+            "data": "ধামইরহাট",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0143",
+            "data": "ধামরাই",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0144",
+            "data": "ধনবাড়ী",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0145",
+            "data": "ধানমন্ডি",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0146",
+            "data": "ধর্মপাশা",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0147",
+            "data": "ধোবাউড়া",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0148",
+            "data": "ধুনট",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0149",
+            "data": "দুপচাঁচিয়া",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0151",
+            "data": "দীঘিনালা",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0150",
+            "data": "দিঘলিয়া",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0152",
+            "data": "ডিমলা",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "0154",
+            "data": "দোহার",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0155",
+            "data": "ডোমার",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "0156",
+            "data": "ডবলমুরিং",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0131",
+            "data": "দৌলতখান",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0157",
+            "data": "দোয়ারাবাজার",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "4423",
+            "data": "দুলারহাট",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0158",
+            "data": "দুমকি",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0159",
+            "data": "ডুমুরিয়া",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0161",
+            "data": "দুর্গাপুর",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0160",
+            "data": "দুর্গাপুর",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0927",
+            "data": "দুসুমারা",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "4428",
+            "data": "ঈদগাঁও",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0968",
+            "data": "এনায়েতপুর",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "1167",
+            "data": "ইপিজেড",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0162",
+            "data": "ফকিরহাট",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0163",
+            "data": "ফরিদগঞ্জ",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0164",
+            "data": "ফরিদপুর",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0166",
+            "data": "ফটিকছড়ি",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0765",
+            "data": "ফতুল্লা",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "0167",
+            "data": "ফেঞ্চুগঞ্জ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0168",
+            "data": "ফেনী সদর",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "0170",
+            "data": "ফুলবাড়িয়া",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0171",
+            "data": "ফুলছড়ি",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0172",
+            "data": "ফুলগাজী",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "0173",
+            "data": "গাবতলী",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "4405",
+            "data": "গাছা",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0174",
+            "data": "গফরগাঁও",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0175",
+            "data": "গাইবান্ধা সদর",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0176",
+            "data": "গলাচিপা",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0177",
+            "data": "গঙ্গাচড়া",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0178",
+            "data": "গাংনী",
+            "districtIdentifier": "57"
+        },
+        {
+            "identifier": "0181",
+            "data": "গজারিয়া",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "0182",
+            "data": "গাজীপুর সদর",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0567",
+            "data": "গেন্ডারিয়া",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0183",
+            "data": "ঘাটাইল",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0184",
+            "data": "ঘিওর",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0185",
+            "data": "ঘোড়াঘাট",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0650",
+            "data": "গোয়ালন্দ",
+            "districtIdentifier": "82"
+        },
+        {
+            "identifier": "0187",
+            "data": "গোবিন্দগঞ্জ",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0188",
+            "data": "গোদাগাড়ী",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0189",
+            "data": "গোলাপগঞ্জ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0190",
+            "data": "গোমস্তাপুর",
+            "districtIdentifier": "70"
+        },
+        {
+            "identifier": "0191",
+            "data": "গোপালগঞ্জ",
+            "districtIdentifier": "35"
+        },
+        {
+            "identifier": "0192",
+            "data": "গোপালপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0193",
+            "data": "গোসাইরহাট",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0179",
+            "data": "গৌরীপুর",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0180",
+            "data": "গৌরনদী",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0194",
+            "data": "গোয়াইনঘাট",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0712",
+            "data": "গুইমারা",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0195",
+            "data": "গুলশান",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0196",
+            "data": "গুরুদাসপুর",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0197",
+            "data": "হবিগঞ্জ সদর",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0198",
+            "data": "হাইমচর",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0200",
+            "data": "হাকিমপুর",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0201",
+            "data": "হালিশহর",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0202",
+            "data": "হালুয়াঘাট",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "4401",
+            "data": "হারাগাছ",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0203",
+            "data": "হরিণাকুন্ডু",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "0204",
+            "data": "হরিপুর",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0205",
+            "data": "হরিরামপুর",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0206",
+            "data": "হাটহাজারী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0207",
+            "data": "হাতীবান্ধা",
+            "districtIdentifier": "52"
+        },
+        {
+            "identifier": "4413",
+            "data": "হাতিরঝিল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0208",
+            "data": "হাতিয়া",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0209",
+            "data": "হাজারীবাগ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0199",
+            "data": "হাজীগঞ্জ",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "4399",
+            "data": "হাজিরহাট",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0210",
+            "data": "হিজলা",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0211",
+            "data": "হোমনা",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "4392",
+            "data": "হরিণটানা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0212",
+            "data": "হোসেনপুর",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "1110",
+            "data": "ইন্দুরকানী",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0213",
+            "data": "ঈশ্বরদী",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0214",
+            "data": "ঈশ্বরগঞ্জ",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0833",
+            "data": "ইসলামী বিশ্ববিদ্যালয়",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0215",
+            "data": "ইসলামপুর",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0216",
+            "data": "ইটনা",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0217",
+            "data": "জগন্নাথপুর",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0218",
+            "data": "জৈন্তাপুর",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0533",
+            "data": "জাজিরা",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "1127",
+            "data": "জালালাবাদ",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0219",
+            "data": "জলঢাকা",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "0220",
+            "data": "জামালগঞ্জ",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0221",
+            "data": "জামালপুর সদর",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0222",
+            "data": "যাত্রাবাড়ী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0223",
+            "data": "ঝালকাঠি",
+            "districtIdentifier": "42"
+        },
+        {
+            "identifier": "0224",
+            "data": "ঝিনাইদহ",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "0225",
+            "data": "ঝিনাইগাতী",
+            "districtIdentifier": "89"
+        },
+        {
+            "identifier": "0226",
+            "data": "ঝিকরগাছা",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0227",
+            "data": "জীবননগর",
+            "districtIdentifier": "18"
+        },
+        {
+            "identifier": "1165",
+            "data": "জোরারগঞ্জ",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0841",
+            "data": "জয়দেবপুর",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0228",
+            "data": "জয়পুরহাট",
+            "districtIdentifier": "38"
+        },
+        {
+            "identifier": "0229",
+            "data": "জুরাছড়ি",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0230",
+            "data": "জুড়ী",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "0231",
+            "data": "কবিরহাট",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0924",
+            "data": "কচাকাটা",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0233",
+            "data": "কচুয়া",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0232",
+            "data": "কচুয়া",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0573",
+            "data": "কদমতলী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0234",
+            "data": "কাফরুল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0235",
+            "data": "কাহালু",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0236",
+            "data": "কাহারোল",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0569",
+            "data": "কলাবাগান",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0238",
+            "data": "কালাই",
+            "districtIdentifier": "38"
+        },
+        {
+            "identifier": "0237",
+            "data": "কলাপাড়া",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0239",
+            "data": "কলারোয়া",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0240",
+            "data": "কালিয়া",
+            "districtIdentifier": "65"
+        },
+        {
+            "identifier": "0241",
+            "data": "কালিয়াকৈর",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0245",
+            "data": "কালীগঞ্জ",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0242",
+            "data": "কালীগঞ্জ",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0243",
+            "data": "কালীগঞ্জ",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "0244",
+            "data": "কালীগঞ্জ",
+            "districtIdentifier": "52"
+        },
+        {
+            "identifier": "0246",
+            "data": "কালিহাতী",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0247",
+            "data": "কালকিনি",
+            "districtIdentifier": "54"
+        },
+        {
+            "identifier": "0248",
+            "data": "কলমাকান্দা",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "1157",
+            "data": "কালুখালী",
+            "districtIdentifier": "82"
+        },
+        {
+            "identifier": "0250",
+            "data": "কমলনগর",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "0251",
+            "data": "কামারখন্দ",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0252",
+            "data": "কামরাঙ্গীরচর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0253",
+            "data": "কানাইঘাট",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0255",
+            "data": "কাপাসিয়া",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0256",
+            "data": "কাপ্তাই",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0257",
+            "data": "করিমগঞ্জ",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "1112",
+            "data": "কর্ণফুলী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0258",
+            "data": "কসবা",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "4419",
+            "data": "কাশিয়াডাঙ্গা",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0259",
+            "data": "কাশিয়ানী",
+            "districtIdentifier": "35"
+        },
+        {
+            "identifier": "4410",
+            "data": "কাশিমপুর",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "4420",
+            "data": "কাটাখালী",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0254",
+            "data": "কাঁঠালিয়া",
+            "districtIdentifier": "42"
+        },
+        {
+            "identifier": "0260",
+            "data": "কটিয়াদী",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0261",
+            "data": "কাউনিয়া",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0262",
+            "data": "কাউখালী",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0263",
+            "data": "কাউখালী (বেতবুনিয়া)",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "1120",
+            "data": "কাউনিয়া",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0264",
+            "data": "কাজীপুর",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "1163",
+            "data": "কাজিরহাট",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0265",
+            "data": "কেন্দুয়া",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0266",
+            "data": "কেরানীগঞ্জ মডেল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0267",
+            "data": "কেশবপুর",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0268",
+            "data": "খাগড়াছড়ি",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0269",
+            "data": "খালিয়াজুরী",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0270",
+            "data": "খালিশপুর",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0271",
+            "data": "খান জাহান আলী",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0272",
+            "data": "খানসামা",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0273",
+            "data": "ক্ষেতলাল",
+            "districtIdentifier": "38"
+        },
+        {
+            "identifier": "0274",
+            "data": "খিলগাঁও",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0275",
+            "data": "খিলক্ষেত",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0276",
+            "data": "খোকসা",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0277",
+            "data": "খুলনা সদর",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0278",
+            "data": "খুলশী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0280",
+            "data": "কিশোরগঞ্জ",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "0279",
+            "data": "কিশোরগঞ্জ সদর",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0249",
+            "data": "কমলগঞ্জ",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "4409",
+            "data": "কোনাবাড়ী",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "4421",
+            "data": "কর্ণহার",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0281",
+            "data": "কোটালীপাড়া",
+            "districtIdentifier": "35"
+        },
+        {
+            "identifier": "0282",
+            "data": "কোটচাঁদপুর",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "0283",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "1047",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0284",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0285",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0636",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0700",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "1089",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "4398",
+            "data": "কোতোয়ালি",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0894",
+            "data": "কোতোয়ালি মেট্রো",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0720",
+            "data": "কোতোয়ালি মডেল",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "1003",
+            "data": "কোতোয়ালি মডেল",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0286",
+            "data": "কয়রা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0287",
+            "data": "কুলাউড়া",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "0288",
+            "data": "কুলিয়ারচর",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0289",
+            "data": "কুমারখালী",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0290",
+            "data": "কুড়িগ্রাম সদর",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0291",
+            "data": "কুষ্টিয়া মডেল",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0292",
+            "data": "কুতুবদিয়া",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "4390",
+            "data": "লবণচরা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0293",
+            "data": "লাখাই",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0294",
+            "data": "লাকসাম",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0296",
+            "data": "লক্ষ্মীপুর সদর",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "0297",
+            "data": "লালবাগ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "4412",
+            "data": "লালমাই",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0298",
+            "data": "লালমোহন",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0299",
+            "data": "লালমনিরহাট",
+            "districtIdentifier": "52"
+        },
+        {
+            "identifier": "0300",
+            "data": "লালপুর",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0301",
+            "data": "লামা",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0302",
+            "data": "লংগদু",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0295",
+            "data": "লক্ষ্মীছড়ি",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0303",
+            "data": "লোহাগাড়া",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0304",
+            "data": "লোহাগাড়া",
+            "districtIdentifier": "65"
+        },
+        {
+            "identifier": "0305",
+            "data": "লৌহজং",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "0306",
+            "data": "মদন",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0307",
+            "data": "মাদারগঞ্জ",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0308",
+            "data": "মাদারীপুর সদর",
+            "districtIdentifier": "54"
+        },
+        {
+            "identifier": "4393",
+            "data": "মাধবদী",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0309",
+            "data": "মাধবপুর",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0310",
+            "data": "মধুখালী",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0311",
+            "data": "মধুপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "1064",
+            "data": "মধ্যনগর",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0312",
+            "data": "মাগুরা সদর",
+            "districtIdentifier": "55"
+        },
+        {
+            "identifier": "0313",
+            "data": "মহাদেবপুর",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0315",
+            "data": "মহেশখালী",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0316",
+            "data": "মহেশপুর",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "4403",
+            "data": "মাহিগঞ্জ",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0317",
+            "data": "মান্দা",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0318",
+            "data": "মানিকছড়ি",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0319",
+            "data": "মানিকগঞ্জ সদর",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0320",
+            "data": "মনিরামপুর",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0322",
+            "data": "মনোহরগঞ্জ",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0323",
+            "data": "মনপুরা",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0324",
+            "data": "মঠবাড়িয়া",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0326",
+            "data": "মাটিরাঙ্গা",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0327",
+            "data": "মতলব দক্ষিণ",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0328",
+            "data": "মতলব উত্তর",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0330",
+            "data": "মেঘনা",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0333",
+            "data": "মেহেন্দিগঞ্জ",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0331",
+            "data": "মেহেরপুর সদর",
+            "districtIdentifier": "57"
+        },
+        {
+            "identifier": "0332",
+            "data": "মেলান্দহ",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0334",
+            "data": "মিরপুর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0335",
+            "data": "মিরপুর",
+            "districtIdentifier": "50"
+        },
+        {
+            "identifier": "0336",
+            "data": "মীরসরাই",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0337",
+            "data": "মির্জাগঞ্জ",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0338",
+            "data": "মির্জাপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0340",
+            "data": "মিঠামইন",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0339",
+            "data": "মিঠাপুকুর",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "1133",
+            "data": "মোগলাবাজার",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0314",
+            "data": "মহালছড়ি",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0341",
+            "data": "মোহাম্মদপুর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0342",
+            "data": "মোহাম্মদপুর",
+            "districtIdentifier": "55"
+        },
+        {
+            "identifier": "0343",
+            "data": "মোহনগঞ্জ",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0344",
+            "data": "মোহনপুর",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "2120",
+            "data": "মোহিপুর",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0345",
+            "data": "মোল্লাহাট",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0346",
+            "data": "মোংলা",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0321",
+            "data": "মনোহরদী",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0347",
+            "data": "মোড়েলগঞ্জ",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0325",
+            "data": "মতিহার",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0348",
+            "data": "মতিঝিল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0329",
+            "data": "মৌলভীবাজার সদর",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "1155",
+            "data": "মুগদা",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0349",
+            "data": "মুজিবনগর",
+            "districtIdentifier": "57"
+        },
+        {
+            "identifier": "0350",
+            "data": "মুকসুদপুর",
+            "districtIdentifier": "35"
+        },
+        {
+            "identifier": "0351",
+            "data": "মুক্তাগাছা",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0352",
+            "data": "মুলাদী",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0353",
+            "data": "মুন্সীগঞ্জ",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "0354",
+            "data": "মুরাদনগর",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0356",
+            "data": "নবীগঞ্জ",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0357",
+            "data": "নবীনগর",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0358",
+            "data": "নাচোল",
+            "districtIdentifier": "70"
+        },
+        {
+            "identifier": "0359",
+            "data": "নগরকান্দা",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0360",
+            "data": "নাগরপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0361",
+            "data": "নাগেশ্বরী",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0362",
+            "data": "নাইক্ষ্যংছড়ি",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0363",
+            "data": "নকলা",
+            "districtIdentifier": "89"
+        },
+        {
+            "identifier": "0364",
+            "data": "নলছিটি",
+            "districtIdentifier": "42"
+        },
+        {
+            "identifier": "0881",
+            "data": "নলডাঙ্গা",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0365",
+            "data": "নালিতাবাড়ী",
+            "districtIdentifier": "89"
+        },
+        {
+            "identifier": "0366",
+            "data": "নান্দাইল",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0367",
+            "data": "নন্দীগ্রাম",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0368",
+            "data": "নাঙ্গলকোট",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0369",
+            "data": "নানিয়ারচর",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0370",
+            "data": "নওগাঁ সদর",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0830",
+            "data": "নড়াগাতী",
+            "districtIdentifier": "65"
+        },
+        {
+            "identifier": "0371",
+            "data": "নড়াইল সদর",
+            "districtIdentifier": "65"
+        },
+        {
+            "identifier": "0372",
+            "data": "নারায়ণগঞ্জ সদর",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "0373",
+            "data": "নড়িয়া",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0374",
+            "data": "নরসিংদী সদর",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0375",
+            "data": "নাসিরনগর",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0376",
+            "data": "নাটোর",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0378",
+            "data": "নবাবগঞ্জ",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0377",
+            "data": "নবাবগঞ্জ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0379",
+            "data": "নাজিরপুর",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0380",
+            "data": "নেছারাবাদ",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0381",
+            "data": "নেত্রকোণা সদর",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0382",
+            "data": "নিউমার্কেট",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0383",
+            "data": "নিয়ামতপুর",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0384",
+            "data": "নিকলী",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0385",
+            "data": "নীলফামারী সদর",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "0537",
+            "data": "ওসমানীনগর",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0387",
+            "data": "পবা",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0388",
+            "data": "পাবনা সদর",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "4426",
+            "data": "পদ্মা সেতু উত্তর",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "4424",
+            "data": "পদ্মা সেতু দক্ষিণ",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "4395",
+            "data": "পাগলা",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0389",
+            "data": "পাহাড়তলী",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0390",
+            "data": "পাইকগাছা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0391",
+            "data": "পাকুন্দিয়া",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "0392",
+            "data": "পলাশ",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0393",
+            "data": "পলাশবাড়ী",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0394",
+            "data": "পল্লবী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1101",
+            "data": "পালং মডেল",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0395",
+            "data": "পল্টন মডেল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0396",
+            "data": "পঞ্চগড় সদর",
+            "districtIdentifier": "77"
+        },
+        {
+            "identifier": "0397",
+            "data": "পাঁচবিবি",
+            "districtIdentifier": "38"
+        },
+        {
+            "identifier": "0398",
+            "data": "পানছড়ি",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0399",
+            "data": "পাঁচলাইশ",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0400",
+            "data": "পাংশা",
+            "districtIdentifier": "82"
+        },
+        {
+            "identifier": "0401",
+            "data": "পার্বতীপুর",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0402",
+            "data": "পরশুরাম",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "0403",
+            "data": "পতেঙ্গা",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0404",
+            "data": "পাটগ্রাম",
+            "districtIdentifier": "52"
+        },
+        {
+            "identifier": "0405",
+            "data": "পাথরঘাটা",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "0406",
+            "data": "পটিয়া",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0801",
+            "data": "পাটকেলঘাটা",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0407",
+            "data": "পত্নীতলা",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0408",
+            "data": "পটুয়াখালী সদর",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0409",
+            "data": "পেকুয়া",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0410",
+            "data": "ফুলবাড়ী",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0169",
+            "data": "ফুলবাড়ী",
+            "districtIdentifier": "27"
+        },
+        {
+            "identifier": "0411",
+            "data": "ফুলপুর",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0412",
+            "data": "ফুলতলা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0413",
+            "data": "পীরগাছা",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0415",
+            "data": "পীরগঞ্জ",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0414",
+            "data": "পীরগঞ্জ",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0416",
+            "data": "পিরোজপুর সদর",
+            "districtIdentifier": "79"
+        },
+        {
+            "identifier": "0417",
+            "data": "পোরশা",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "4400",
+            "data": "পরশুরাম",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "4406",
+            "data": "পূবাইল",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0418",
+            "data": "পূর্বধলা",
+            "districtIdentifier": "72"
+        },
+        {
+            "identifier": "0419",
+            "data": "পুঠিয়া",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0441",
+            "data": "রায়গঞ্জ",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0442",
+            "data": "রায়পুর",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "0443",
+            "data": "রায়পুরা",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0420",
+            "data": "রাজাপুর",
+            "districtIdentifier": "42"
+        },
+        {
+            "identifier": "0421",
+            "data": "রাজারহাট",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0422",
+            "data": "রাজস্থলী",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0648",
+            "data": "রাজবাড়ী সদর",
+            "districtIdentifier": "82"
+        },
+        {
+            "identifier": "0424",
+            "data": "রাজনগর",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "0425",
+            "data": "রাজৈর",
+            "districtIdentifier": "54"
+        },
+        {
+            "identifier": "0426",
+            "data": "রাজপাড়া",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0427",
+            "data": "রামগঞ্জ",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "0428",
+            "data": "রামগড়",
+            "districtIdentifier": "46"
+        },
+        {
+            "identifier": "0429",
+            "data": "রামগতি",
+            "districtIdentifier": "51"
+        },
+        {
+            "identifier": "0430",
+            "data": "রমনা মডেল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0431",
+            "data": "রামপাল",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0580",
+            "data": "রামপুরা",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0432",
+            "data": "রামু",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "1016",
+            "data": "রাঙ্গাবালী",
+            "districtIdentifier": "78"
+        },
+        {
+            "identifier": "0888",
+            "data": "রংপুর সদর",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0435",
+            "data": "রাঙ্গুনিয়া",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0436",
+            "data": "রাণীনগর",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0437",
+            "data": "রাণীশংকৈল",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0438",
+            "data": "রাউজান",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0440",
+            "data": "রোয়াংছড়ি",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0439",
+            "data": "রৌমারী",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "1115",
+            "data": "রুহিয়া",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0444",
+            "data": "রুমা",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0445",
+            "data": "রূপগঞ্জ",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "1148",
+            "data": "রূপনগর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0446",
+            "data": "রূপসা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0447",
+            "data": "সবুজবাগ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0118",
+            "data": "সদর দক্ষিণ",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "1168",
+            "data": "সদরঘাট",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "4415",
+            "data": "সদর মডেল",
+            "districtIdentifier": "70"
+        },
+        {
+            "identifier": "0448",
+            "data": "সদরপুর",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0449",
+            "data": "সাদুল্লাপুর",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0451",
+            "data": "সৈয়দপুর",
+            "districtIdentifier": "73"
+        },
+        {
+            "identifier": "1116",
+            "data": "সাজেক",
+            "districtIdentifier": "84"
+        },
+        {
+            "identifier": "0452",
+            "data": "সখীপুর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0976",
+            "data": "সলঙ্গা",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0536",
+            "data": "সালথা",
+            "districtIdentifier": "29"
+        },
+        {
+            "identifier": "0453",
+            "data": "সন্দ্বীপ",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0454",
+            "data": "সাঁথিয়া",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0455",
+            "data": "সাপাহার",
+            "districtIdentifier": "64"
+        },
+        {
+            "identifier": "0456",
+            "data": "সরাইল",
+            "districtIdentifier": "12"
+        },
+        {
+            "identifier": "0457",
+            "data": "শরণখোলা",
+            "districtIdentifier": "01"
+        },
+        {
+            "identifier": "0458",
+            "data": "সারিয়াকান্দি",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0459",
+            "data": "সরিষাবাড়ী",
+            "districtIdentifier": "39"
+        },
+        {
+            "identifier": "0460",
+            "data": "সাতকানিয়া",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0461",
+            "data": "সাতক্ষীরা সদর",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0462",
+            "data": "সাটুরিয়া",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0463",
+            "data": "সাভার",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0464",
+            "data": "সেনবাগ",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0539",
+            "data": "শায়েস্তাগঞ্জ",
+            "districtIdentifier": "36"
+        },
+        {
+            "identifier": "0450",
+            "data": "সাঘাটা",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0466",
+            "data": "শাহ আলী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0468",
+            "data": "শাহবাগ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0469",
+            "data": "শাহজাদপুর",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "1145",
+            "data": "শাহজাহানপুর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0467",
+            "data": "শাহ মখদুম",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "1134",
+            "data": "শাহপরান",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0470",
+            "data": "শাহরাস্তি",
+            "districtIdentifier": "13"
+        },
+        {
+            "identifier": "0471",
+            "data": "শৈলকুপা",
+            "districtIdentifier": "44"
+        },
+        {
+            "identifier": "0472",
+            "data": "শাজাহানপুর",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "1100",
+            "data": "সখিপুর",
+            "districtIdentifier": "86"
+        },
+        {
+            "identifier": "0473",
+            "data": "শালিখা",
+            "districtIdentifier": "55"
+        },
+        {
+            "identifier": "0484",
+            "data": "শ্যামপুর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0124",
+            "data": "শান্তিগঞ্জ",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0475",
+            "data": "শার্শা",
+            "districtIdentifier": "41"
+        },
+        {
+            "identifier": "0571",
+            "data": "শেরেবাংলা নগর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0476",
+            "data": "শেরপুর",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0477",
+            "data": "শেরপুর",
+            "districtIdentifier": "89"
+        },
+        {
+            "identifier": "0479",
+            "data": "শিবালয়",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0478",
+            "data": "শিবচর",
+            "districtIdentifier": "54"
+        },
+        {
+            "identifier": "0480",
+            "data": "শিবগঞ্জ",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "0481",
+            "data": "শিবগঞ্জ",
+            "districtIdentifier": "70"
+        },
+        {
+            "identifier": "0482",
+            "data": "শিবপুর",
+            "districtIdentifier": "68"
+        },
+        {
+            "identifier": "0483",
+            "data": "শ্যামনগর",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "0767",
+            "data": "সিদ্ধিরগঞ্জ",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "0485",
+            "data": "সিংগাইর",
+            "districtIdentifier": "56"
+        },
+        {
+            "identifier": "0486",
+            "data": "সিংড়া",
+            "districtIdentifier": "69"
+        },
+        {
+            "identifier": "0465",
+            "data": "সিরাজদিখান",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "0487",
+            "data": "সিরাজগঞ্জ",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0488",
+            "data": "সীতাকুণ্ড",
+            "districtIdentifier": "15"
+        },
+        {
+            "identifier": "0489",
+            "data": "সোনাডাঙ্গা মডেল",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0490",
+            "data": "সোনাগাজী",
+            "districtIdentifier": "30"
+        },
+        {
+            "identifier": "0491",
+            "data": "সোনাইমুড়ী",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0492",
+            "data": "সোনারগাঁ",
+            "districtIdentifier": "67"
+        },
+        {
+            "identifier": "0493",
+            "data": "সোনাতলা",
+            "districtIdentifier": "10"
+        },
+        {
+            "identifier": "1138",
+            "data": "শশীভূষণ",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0578",
+            "data": "দক্ষিণ কেরানীগঞ্জ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0125",
+            "data": "দক্ষিণ সুরমা",
+            "districtIdentifier": "91"
+        },
+        {
+            "identifier": "0494",
+            "data": "শ্রীবরদী",
+            "districtIdentifier": "89"
+        },
+        {
+            "identifier": "0495",
+            "data": "শ্রীমঙ্গল",
+            "districtIdentifier": "58"
+        },
+        {
+            "identifier": "0496",
+            "data": "শ্রীনগর",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "0497",
+            "data": "শ্রীপুর",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0498",
+            "data": "শ্রীপুর",
+            "districtIdentifier": "55"
+        },
+        {
+            "identifier": "0386",
+            "data": "সুধারাম",
+            "districtIdentifier": "75"
+        },
+        {
+            "identifier": "0500",
+            "data": "সুজানগর",
+            "districtIdentifier": "76"
+        },
+        {
+            "identifier": "0501",
+            "data": "শাল্লা",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0502",
+            "data": "সুনামগঞ্জ সদর",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "0503",
+            "data": "সুন্দরগঞ্জ",
+            "districtIdentifier": "32"
+        },
+        {
+            "identifier": "0504",
+            "data": "সূত্রাপুর",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0506",
+            "data": "তাহিরপুর",
+            "districtIdentifier": "90"
+        },
+        {
+            "identifier": "4402",
+            "data": "তাজহাট",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0507",
+            "data": "তালা",
+            "districtIdentifier": "87"
+        },
+        {
+            "identifier": "1029",
+            "data": "তালতলী",
+            "districtIdentifier": "04"
+        },
+        {
+            "identifier": "0508",
+            "data": "টাঙ্গাইল সদর",
+            "districtIdentifier": "93"
+        },
+        {
+            "identifier": "0509",
+            "data": "তানোর",
+            "districtIdentifier": "81"
+        },
+        {
+            "identifier": "0510",
+            "data": "তারাগঞ্জ",
+            "districtIdentifier": "85"
+        },
+        {
+            "identifier": "0511",
+            "data": "তাড়াইল",
+            "districtIdentifier": "48"
+        },
+        {
+            "identifier": "1080",
+            "data": "তারাকান্দা",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0512",
+            "data": "তাড়াশ",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "0513",
+            "data": "তজুমদ্দিন",
+            "districtIdentifier": "09"
+        },
+        {
+            "identifier": "0514",
+            "data": "তেজগাঁও",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0515",
+            "data": "তেজগাঁও শিল্পাঞ্চল",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0516",
+            "data": "টেকনাফ",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0518",
+            "data": "তেরখাদা",
+            "districtIdentifier": "47"
+        },
+        {
+            "identifier": "0517",
+            "data": "তেঁতুলিয়া",
+            "districtIdentifier": "77"
+        },
+        {
+            "identifier": "0519",
+            "data": "ঠাকুরগাঁও সদর",
+            "districtIdentifier": "94"
+        },
+        {
+            "identifier": "0520",
+            "data": "থানচি",
+            "districtIdentifier": "03"
+        },
+        {
+            "identifier": "0521",
+            "data": "তিতাস",
+            "districtIdentifier": "19"
+        },
+        {
+            "identifier": "0522",
+            "data": "টঙ্গীবাড়ী",
+            "districtIdentifier": "59"
+        },
+        {
+            "identifier": "4407",
+            "data": "টঙ্গী পূর্ব",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "4408",
+            "data": "টঙ্গী পশ্চিম",
+            "districtIdentifier": "33"
+        },
+        {
+            "identifier": "0523",
+            "data": "ত্রিশাল",
+            "districtIdentifier": "61"
+        },
+        {
+            "identifier": "0524",
+            "data": "টুঙ্গিপাড়া",
+            "districtIdentifier": "35"
+        },
+        {
+            "identifier": "0525",
+            "data": "তুরাগ",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0526",
+            "data": "উখিয়া",
+            "districtIdentifier": "22"
+        },
+        {
+            "identifier": "0527",
+            "data": "উলিপুর",
+            "districtIdentifier": "49"
+        },
+        {
+            "identifier": "0528",
+            "data": "উল্লাপাড়া মডেল",
+            "districtIdentifier": "88"
+        },
+        {
+            "identifier": "1153",
+            "data": "উত্তরা পূর্ব",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1154",
+            "data": "উত্তরা পশ্চিম",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0529",
+            "data": "উত্তরখান",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1130",
+            "data": "ভাষানটেক",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1150",
+            "data": "ভাটারা",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "1141",
+            "data": "ওয়ারী",
+            "districtIdentifier": "26"
+        },
+        {
+            "identifier": "0531",
+            "data": "উজিরপুর",
+            "districtIdentifier": "06"
+        },
+        {
+            "identifier": "0532",
+            "data": "জকিগঞ্জ",
+            "districtIdentifier": "91"
+        }
+    ]
+}
